@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "JBASIHTTPRequest"
-  s.version      = "2.0"
+  s.version      = "2.0.1"
   s.summary      = "自己项目中维护的ASI，此版本是直接从ASIHttpRequest fork过来的"
   s.homepage     = "https://github.com/jabarier/asi-http-request"
   s.license      = "MIT"
